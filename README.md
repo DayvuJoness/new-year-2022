@@ -13,6 +13,8 @@ This project is a highly optimized and responsive landing page designed for a Ne
 ## Running the project
 The project does not require building or installing dependencies.
 
+The project visual is available at the link: https://dayvujoness.github.io/new-year-2022/
+
 ## File Structure
 
 ```text
