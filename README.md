@@ -14,15 +14,18 @@ This project is a highly optimized and responsive landing page designed for a Ne
 The project does not require building or installing dependencies.
 
 ## File Structure
+
+```text
 .
 ├── src/
-│ ├── css/
-│ │ ├── styles.css # Main styles (grid, fonts, common blocks)
-│ │ └── customization.css # Unique, positional styles for cards (padding, z-index, :nth-child)
-│ ├── fonts/ # Fonts
-│ └── img/ # Images (mobile, desktop, placeholders)
+│   ├── css/
+│   │   ├── styles.css # Main styles (grid, fonts, common blocks)
+│   │   └── customization.css # Unique, positional styles for cards (padding, z-index, :nth-child)
+│   ├── fonts/ # Fonts
+│   └── img/ # Images (mobile, desktop, placeholders)
 └── index.html # Main HTML file
 └── README.md
+```
 
 ## Project Status
 ✅ Fully responsive design (Desktop / Mobile).
