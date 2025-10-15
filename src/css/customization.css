@@ -1,185 +1,183 @@
-.land__scroll a,
-.slider-wrapper.slider-first ul li a,
-.land__green_field__scroll a,
-.slider-wrapper.slider-second ul li a,
-.land__red_field__scroll a,
-.slider-wrapper.slider-third ul li a,
-.land__green_field__scroll1-d a{
+.land .scroll-list.scroll-list--food .scroll-list__item,
+.land .scroll-list.scroll-list--mood .scroll-list__item,
+.land .scroll-list.scroll-list--gifts .scroll-list__item,
+.land .scroll-list.scroll-list--suits .scroll-list__item,
+.land .slider .slider__list .slider__slide .slider__item {
     padding: 0 0 0 0;
 }
 
-.land__scroll a:nth-child(1){
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(1) {
     padding: 0 15px 0 10px;
 }
 
-.land__scroll a:nth-child(2){
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(2) {
     padding: 0 15px 0 0;
 }
 
-.land__scroll a:nth-child(3){
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(3) {
     z-index: 2; padding: 0 6px 0 0;
 }
 
-.land__scroll a:nth-child(3) img{
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(3) img {
     margin: 0 -10px 0 0;
 }
 
-.land__scroll a:nth-child(4){
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(4) {
     z-index: 1; padding: 0 15px 0 0;
 }
 
-.land__scroll a:nth-child(5),
-.land__scroll a:nth-child(6),
-.land__scroll a:nth-child(7),
-.land__scroll a:nth-child(8){
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(5),
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(6),
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(7),
+.land .scroll-list.scroll-list--food .scroll-list__item:nth-child(8) {
     padding: 0 15px 0 0;
 }
 
-.slider-wrapper.slider-first ul li:nth-child(1) a:nth-child(1),
-.slider-wrapper.slider-first ul li:nth-child(1) a:nth-child(2){
-    padding: 0 1.5% 0 0;
-}
-
-.slider-wrapper.slider-first ul li:nth-child(1) a:nth-child(3){
-    z-index: 2;
-}
-
-.slider-wrapper.slider-first ul li:nth-child(1) a:nth-child(4){
-    margin: 0 0 0 0; z-index: 1;
-}
-
-.slider-wrapper.slider-first ul li:nth-child(2) a:nth-child(1){
-    padding: 0 1.5% 0 2.5%;
-}
-
-.slider-wrapper.slider-first ul li:nth-child(2) a:nth-child(2),
-.slider-wrapper.slider-first ul li:nth-child(2) a:nth-child(3){
-    padding: 0 1.5% 0 0;
-}
-
-.slider-wrapper.slider-first ul li:nth-child(2) a:nth-child(4){
-    padding: 0 2% 0 0;
-}
-
-.land__green_field__scroll a:nth-child(1){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(1) {
     padding: 0 10px 0 5px;
 }
 
-.land__green_field__scroll a:nth-child(4){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(4) {
     padding: 0 0px 0 20px;
 }
 
-.land__green_field__scroll a:nth-child(5){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(5) {
     padding: 0 20px 0 0;
 }
 
-.land__green_field__scroll a:nth-child(6){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(6) {
     padding: 0 9px 0 0;
 }
 
-.land__green_field__scroll a:nth-child(7){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(7) {
     padding: 0 20px 0 0;
 }
 
-.land__green_field__scroll a:nth-child(8){
+.land .scroll-list.scroll-list--mood .scroll-list__item:nth-child(8) {
     padding: 0 5px 0 0;
 }
 
-.slider-wrapper.slider-second ul li:nth-child(1) a:nth-child(1){
-    padding: 0 1% 0 0;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(1) a:nth-child(2){
-    padding: 0 0.5% 0 0;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(1) a:nth-child(3){
-    padding: 0 1.8% 0 0;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(2) a:nth-child(1){
-    padding: 0 2% 0 0.7%;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(2) a:nth-child(2){
-    padding: 0 0.7% 0 0;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(2) a:nth-child(3){
-    padding: 0 0.3% 0 0;
-}
-
-.slider-wrapper.slider-second ul li:nth-child(2) a:nth-child(4){
-    padding: 0 2% 0 0;
-}
-
-.land__red_field__scroll a:nth-child(1){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(1) {
     padding: 0 15px 0 15px;
 }
 
-.land__red_field__scroll a:nth-child(2){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(2) {
     padding: 0 15px 0 0;
 }
 
-.land__red_field__scroll a:nth-child(3){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(3) {
     z-index: 2;
 }
 
-.land__red_field__scroll a:nth-child(3) img{
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(3) img {
     margin: 0 -15px 0 0;
 }
 
-.land__red_field__scroll a:nth-child(4){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(4) {
     z-index: 1; padding: 0 15px 0 0;
 }
 
-.land__red_field__scroll a:nth-child(5),
-.land__red_field__scroll a:nth-child(6){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(5),
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(6) {
     padding: 0 15px 0 0;
 }
 
-.land__red_field__scroll a:nth-child(7){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(7) {
     padding: 0 2px 0 0;
 }
 
-.land__red_field__scroll a:nth-child(8),
-.land__red_field__scroll a:nth-child(9){
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(8),
+.land .scroll-list.scroll-list--gifts .scroll-list__item:nth-child(9) {
     padding: 0 15px 0 0;
 }
 
-.slider-wrapper.slider-third ul li:nth-child(1) a:nth-child(1){
-    padding: 0 2% 0 0.5%;
-}
-
-.slider-wrapper.slider-third ul li:nth-child(1) a:nth-child(2){
-    padding: 0 2% 0 2px;
-}
-
-.slider-wrapper.slider-third ul li:nth-child(1) a:nth-child(3){
-    z-index: 2;
-}
-
-.slider-wrapper.slider-third ul li:nth-child(1) a:nth-child(4){
-    margin: 0 0 0 -1.1%; z-index: 1;
-}
-
-.slider-wrapper.slider-third ul li:nth-child(2) a:nth-child(1),
-.slider-wrapper.slider-third ul li:nth-child(2) a:nth-child(2){
-    padding: 0 2% 0 0;
-}
-
-.slider-wrapper.slider-third ul li:nth-child(2) a:nth-child(4){
-    padding: 0 2% 0 0;
-}
-
-.land__green_field__scroll1-d a:nth-child(2){
+.land .scroll-list.scroll-list--suits .scroll-list__item:nth-child(2) {
     padding: 0 0.5% 0 3%;
 }
 
-.land__green_field__scroll1-d a:nth-child(3){
+.land .scroll-list.scroll-list--suits .scroll-list__item:nth-child(3) {
     z-index: 2;
 }
 
-.land__green_field__scroll1-d a:nth-child(3) img{
+.land .scroll-list.scroll-list--suits .scroll-list__item:nth-child(3) img {
     margin: 0 0 0 0;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(1),
+.land .slider.slider--food .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(2) {
+    padding: 0 1.5% 0 0;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(3) {
+    z-index: 2;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(4) {
+    margin: 0 0 0 0; z-index: 1;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(1) {
+    padding: 0 1.5% 0 2.5%;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(2),
+.land .slider.slider--food .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(3) {
+    padding: 0 1.5% 0 0;
+}
+
+.land .slider.slider--food .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(4) {
+    padding: 0 2% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(1) {
+    padding: 0 1% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(2) {
+    padding: 0 0.5% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(3) {
+    padding: 0 1.8% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(1) {
+    padding: 0 2% 0 0.7%;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(2) {
+    padding: 0 0.7% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(3) {
+    padding: 0 0.3% 0 0;
+}
+
+.land .slider.slider--mood .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(4) {
+    padding: 0 2% 0 0;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(1) {
+    padding: 0 2% 0 0.5%;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(2) {
+    padding: 0 2% 0 2px;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(3) {
+    z-index: 2;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(1) .slider__item:nth-child(4) {
+    margin: 0 0 0 -1.1%; z-index: 1;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(1),
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(2) {
+    padding: 0 2% 0 0;
+}
+
+.land .slider.slider--gifts .slider__list .slider__slide:nth-child(2) .slider__item:nth-child(4) {
+    padding: 0 2% 0 0;
 }
