@@ -10,6 +10,16 @@ This project is a highly optimized and responsive landing page designed for a Ne
 - **CSS3:** Responsive design, Flexbox, CSS Custom Properties (Variables)
 - **Performance:** Conditional image loading `<picture>` and Minimal Network Load (using spacer.gif and efficient CSS background placement).
 
+## 📐 Code Style and Structure
+
+This project strictly adheres to the **BEM (Block, Element, Modifier)** methodology for naming HTML/CSS classes.
+
+### Why BEM?
+
+* **Modularity:** CSS classes are independent, preventing cascade issues.
+* **Reusability:** Blocks and Elements can be easily reused across the entire landing page.
+* **Clarity:** The structure of classes clearly indicates the relationship and purpose of each component.
+
 ## Running the project
 The project does not require building or installing dependencies.
 
