@@ -3,12 +3,12 @@
 ## Project Description
 This project is a highly optimized and responsive landing page designed for a New Year 2022 promotion.
 
-**Key Features:** All interactive functionality (sliders and scrollers) is implemented exclusively in **HTML and CSS** (using CSS hacks such as `:checked` and `:nth-child`), without JavaScript (which was prohibited), ensuring maximum loading speed and performance.
+**Key Features:** All interactive functionality (sliders and scrollers) is implemented exclusively in **HTML and CSS** (using CSS hacks such as `:checked`), without JavaScript (which was prohibited), ensuring maximum loading speed and performance.
 
 ## Technologies
 - **HTML5:** Semantic markup.
 - **CSS3:** Responsive design, Flexbox, CSS Custom Properties (Variables)
-- **Performance:** Conditional image loading `<picture>` and Minimal Network Load (using spacer.gif and efficient CSS background placement).
+- **Performance:** Conditional image loading `<picture>` and Minimal Network Load (using efficient CSS background placement).
 
 ## 📐 Code Style and Structure
 
@@ -32,7 +32,7 @@ The project visual is available at the link: https://dayvujoness.github.io/new-y
 ├── src/
 │   ├── css/
 │   │   ├── styles.css # Main styles (grid, fonts, common blocks)
-│   │   └── customization.css # Unique, positional styles for cards (padding, z-index, :nth-child)
+│   │   └── customization.css # Unique, positional styles for cards (gap, z-index)
 │   ├── fonts/ # Fonts
 │   └── img/ # Images (mobile, desktop, placeholders)
 └── index.html # Main HTML file
