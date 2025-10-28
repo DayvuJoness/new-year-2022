@@ -23,7 +23,7 @@ This project strictly adheres to the **BEM (Block, Element, Modifier)** methodol
 ## Running the project
 The project does not require building or installing dependencies.
 
-The project visual is available at the link: https://dayvujoness.github.io/new-year-2022/
+The project visual is available at the link: [New Year 2022 No-JS version](https://dayvujoness.github.io/new-year-2022/)
 
 ## File Structure
 
